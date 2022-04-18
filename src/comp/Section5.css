@@ -1,0 +1,85 @@
+.Section5-maincontainer{
+    justify-content: center;
+    /* background-color: #c77373; */
+    display: flex;
+    background-image: url("../assets/images/section5-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    }
+.Section5-container1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+#Section5-container {
+    justify-content: center;
+  }
+  .Section5-inner-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+  }
+  .Section5-left-panel{
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      width: 70%;
+      justify-content: center;
+      place-items: center;
+      /* background-color: #05060A; */
+  }
+  .left-pannel-inner{
+      width: 70%;
+      justify-content: center;
+  }
+  .sec5-text-1{
+      font-size:50px;
+      font-weight: bold;
+      color: #05060A;
+      /* background-color: #344fbb */
+  }
+  .sec5-text-2{
+    font-size:23px;
+    color: #05060A;
+    width: 75%
+    /* background-color: #51c617 */
+
+  }
+  .Section2-image{
+      width:487px;
+      height:622px;
+
+  }
+
+  .sec5-button
+{
+    display: flex;
+    margin-top: 20px;
+}
+.section5-button
+{
+    height:42px;
+    width:181px;
+    background-color: #3E82FC;
+    border: none;
+    border-radius:40px;
+    color:white;
+    font-weight: 600;
+    font-family: GothamBook;
+    font-size: 14px;
+    text-align: center;
+    align-items: center;
+}
+.section5-button:hover
+{
+    cursor: pointer;
+}
