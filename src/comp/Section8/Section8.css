@@ -1,0 +1,80 @@
+.Section8-maincontainer{
+    justify-content: center;
+    display: flex;
+    /* background-image: url("../../assets/images/section6-bg.png"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #ECF3FF;
+    }
+.Section8-container1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction:column; 
+    justify-content: space-around;
+    
+
+}
+#Section8-container {
+    justify-content: center;
+  }
+  .Section8-heading{
+    font-size:40px;
+    color:black;
+    font-weight:600;
+    text-align: center;
+    line-height:1.3;
+
+  }
+  .Section8-text{
+      margin-top:20px;
+    font-size:18px;
+    color:#5D616F;
+    line-height:1.3; 
+    /* font-weight:600; */
+    text-align: center;
+
+
+  }
+  .Section8-subscribe-part{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+  }
+  .Section8-email{
+    all: unset;
+    width: 408px;
+    height: 50px;
+    padding-left: 60px;
+    border: 1px solid #3E82FC;
+    box-sizing: border-box;
+    border-radius: 50px;
+    margin-right: 40px;
+  }
+  .Section8-button{
+    all: unset;
+    width: 150px;
+    height: 50px;
+    left: 467px;
+    background: #3E82FC;
+    text-align: center;
+    box-shadow: 0px 4px 60px rgba(62, 130, 252, 0.35);
+    border-radius: 40px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    color: #FFFFFF;
+    margin-bottom: 100px;
+  }
+  .Section8-mail-icon{
+    margin-top: -138px;
+    margin-left: -525px;
+
+  }

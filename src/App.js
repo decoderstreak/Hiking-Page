@@ -7,10 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="container"> 
-    {/* <Section5 /> */}
     <Section />
-    Hii container
-      
     </div>
   );
 }

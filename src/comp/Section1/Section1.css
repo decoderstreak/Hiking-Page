@@ -1,0 +1,73 @@
+.Section1-maincontainer{
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 60px;
+    height:600px;
+    overflow: visible;
+    position: relative;
+    }
+    
+.Section1-container1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+}
+.Section1-left-container{
+    display: flex;
+    flex-direction: column;
+    width:50%
+    
+}
+.lc-text-1{
+    margin-top: 15px;
+    font-size: 65px;
+    font-weight: bold;
+    line-height: 1;  
+}
+.lc-text-2{
+    margin-top: 20px;
+    font-size: 18px;
+    width:65%;  
+    color:#5D616F
+
+
+}
+.lc-buttons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+
+}
+.lc-button-1{
+    all: unset;
+    width: 181px;
+    height: 55px;
+    background: #3E82FC;
+    box-shadow: 0px 4px 60px rgba(62, 130, 252, 0.35);
+    border-radius: 40px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-right: 30px;
+    cursor: pointer;
+    
+}
+.lc-button-2{
+    all: unset;
+    width: 198px;
+    height: 55px;
+    border: 1px solid #3E82FC;
+    box-sizing: border-box;
+    border-radius: 40px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    color: #3E82FC;
+    cursor: pointer;
+}
